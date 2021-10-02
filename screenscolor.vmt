@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/eradium/protogen/Body"
+	"$selfillum" "1"
+	"$selfillummask" "models/eradium/protogen/emission_mask"
+	Proxies {
+    PlayerColor {
+       resultVar $color2
+       myVariable $color
+    	}
+		}
+}
